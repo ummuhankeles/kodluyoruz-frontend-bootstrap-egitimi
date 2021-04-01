@@ -1,0 +1,34 @@
+body {
+    background-color: #E9ECEF;
+}
+
+.navbar .navbar-brand {
+    color: lightcoral;
+}
+
+.jumbotron-title{
+    color: blueviolet;
+}
+
+.description h3 {
+    color: darkorange;
+}
+
+.description a {
+    color: gray;
+    text-decoration: none;
+}
+
+.description li {
+    list-style-position: inside;
+}
+
+.description a:hover {
+    color: #fff;
+}
+
+/* hakkımızda sayfası */
+
+.about-info h4 {
+    color: darkorange;
+}
